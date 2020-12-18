@@ -1,10 +1,9 @@
 ### Hi there, I'm Arnold 👋
 
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AA-Arnold&show_icons=true&theme=tokyonight&line_height=48" />
-   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AA-Arnold&count_private=true&theme=tokyonight">
-  </p>
+- 🔭 I’m currently working on a quiz like web application, and building my developer portfolio website
+- 🌱 I’m currently learning Nextjs and Machine Learning
+- 👯 I’m looking to collaborate on any exciting web application project (React)
+- 🥅 2021 Goals: Contribute more to Open Source projects and Learning more 
 <!--
 **AA-Arnold/AA-Arnold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
