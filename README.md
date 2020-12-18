@@ -1,8 +1,10 @@
 ### Hi there, I'm Arnold 👋
 
 
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AA-Arnold&show_icons=true&theme=tokyonight&line_height=48" />
    <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AA-Arnold&count_private=true&theme=tokyonight">
+  </p>
 <!--
 **AA-Arnold/AA-Arnold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
