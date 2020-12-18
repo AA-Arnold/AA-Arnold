@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a quiz like web application, and building my developer portfolio website
 - 🌱 I’m currently learning Nextjs and Machine Learning
 - 👯 I’m looking to collaborate on any exciting web application project (React)
-- 🥅 2021 Goals: Contribute more to Open Source projects and Learning more 
+- 🎯 2021 Goals: Contribute more to Open Source projects and Learning more 
 
 ### Languages and Tools:
 <p>
