@@ -1,4 +1,4 @@
-### Hi there, I'm Arnold <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm Arnold <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
 - 🔭 I’m currently working on a quiz like web application, and building my developer portfolio website
 - 🌱 I’m currently learning Nextjs and Machine Learning
