@@ -1,9 +1,14 @@
+## 🚀 About Me
+
 ### Hi there, I'm Arnold <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
 - 🔭 I’m currently working on a quiz like web application, and building my developer portfolio website
 - 🌱 I’m currently learning Mobile Development with Flutter & Dart, Nextjs and Machine Learning
 - 👯 I’m looking to collaborate on any exciting web application project (React)
 - 🎯 2021 Goals: Contribute more to Open Source projects and Learning more 
+
+
+## 🛠️ Skills
 
 ### Languages and Tools:
 <p>
