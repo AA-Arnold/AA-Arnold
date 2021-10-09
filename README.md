@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" alt="React">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
 <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat" alt="Github">
+<img src="https://img.shields.io/badge/Dart-61DAFB?logo=Dart&logoColor=white&style=flat" alt="Dart">
+<img src="https://img.shields.io/badge/Flutter-0A66C2?logo=Dart&logoColor=white&style=flat" alt="Dart">
 </p>
 
 
